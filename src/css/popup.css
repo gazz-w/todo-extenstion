@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #novaTarefa {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  #adicionarTarefa {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  #listaTarefas {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .tarefa {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .tarefa input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  .botaoDeletar {
+    margin-left: auto;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
