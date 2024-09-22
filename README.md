@@ -26,7 +26,7 @@ Uma extensão simples e eficaz para o Google Chrome que permite gerenciar uma li
 ## Instalação
 1. **Clone ou Baixe o Repositório**:
     ```bash
-    git clone https://github.com/gazz-w/todoext.git
+    git clone https://github.com/gazz-w/todo-extenstion
     ```
 
 2. **Acesse as Extensões do Chrome**:
