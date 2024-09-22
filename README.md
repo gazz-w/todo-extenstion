@@ -67,10 +67,3 @@ Você pode personalizar a aparência ou funcionalidade alterando os arquivos `po
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas no repositório.
-
-## Licença
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
----
-
-Esse README fornece todas as informações essenciais para a instalação, uso e personalização da extensão.
